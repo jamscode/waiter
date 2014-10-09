@@ -1,0 +1,6 @@
+Gemfile.lock
+.ruby-gemset
+.ruby-version
+.idea
+test.rb
+todo.txt
